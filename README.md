@@ -1,2 +1,2 @@
-# TestNG
+# Appium Examples
 Examples of Appium
