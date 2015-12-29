@@ -1,3 +1,2 @@
 # Appium Examples
-Examples of Appium
-testingg2
+Editted by Amit
