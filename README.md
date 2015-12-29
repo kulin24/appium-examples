@@ -1,2 +1,2 @@
 # Appium Examples
-Editted by Amit
+Editted original copy by amit
