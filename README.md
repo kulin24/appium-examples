@@ -1,4 +1,5 @@
 # Appium Examples
 Editted original copy by amit
-change A
-change B
+change W
+change X
+change Y
